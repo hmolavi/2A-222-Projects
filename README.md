@@ -5,3 +5,9 @@ This repository contains all of our ECE 222 Lab Projects for a total of 4 projec
 ## Colaborators
 Hossein Molavi - hmolavi@uwaterloo.ca  
 Gurshaan Kooner - g3kooner@uwaterloo.ca
+
+# Table of Contents
+
+| Project Number | Description |
+|----------------|-------------|
+| 1 | Flash LED at 1Hz |
